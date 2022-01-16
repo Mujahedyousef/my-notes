@@ -1,2 +1,2 @@
 # my-notes
-The first day from journey learning JavaScript
+The first day from journey learning JavaScript.
